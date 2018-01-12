@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spotify Test App</string>
+    <string name="now_playing_text">Now Playing Text</string>
+    <string name="pause">Pause</string>
+</resources>
